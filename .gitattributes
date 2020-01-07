@@ -1,5 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 # Language
-*.html linguist-language=Python
 datasets/*.html linguist-language=Python
