@@ -2,4 +2,3 @@
 * text=auto
 # Language
 *.html linguist-detactable=false
-*.HTML linguist-detactable=false
