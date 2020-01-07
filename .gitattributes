@@ -1,5 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 # Language
-*.html linguist-detactable=false
+*.HTML linguist-detactable=false
 *.ipynb linguist-language=Python
