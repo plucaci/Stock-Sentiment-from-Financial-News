@@ -2,5 +2,4 @@
 * text=auto
 # Language
 *.html linguist-language=Python
-*.ipynb linguist-language=Python
 datasets/*.html linguist-language=Python
