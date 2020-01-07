@@ -2,3 +2,4 @@
 * text=auto
 # Language
 *.html linguist-detactable=false
+*.ipynb linguist-language=Python
