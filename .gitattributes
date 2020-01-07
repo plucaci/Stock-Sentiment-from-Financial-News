@@ -2,3 +2,4 @@
 * text=auto
 # Language
 *.HTML linguist-language=Python
+*.html linguist-language=Python
